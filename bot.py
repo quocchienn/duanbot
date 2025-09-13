@@ -9,7 +9,7 @@ from telegram.ext import (
 )
 
 # ====== GHI THẲNG TOKEN Ở ĐÂY ======
-BOT_TOKEN = "8004217085:AAFWJHC27kNYnXzS0_LKyOIVaQoE8eZxaCI"
+BOT_TOKEN = "GHI THẲNG TOKEN Ở ĐÂY "
 
 CONFIG_FILE = "config.json"
 
